@@ -5,3 +5,6 @@ including the framework (NIST 800-53 Rev 5) and baseline (FedRAMP High).
 
 See grc_python_crash_course.md for full requirements.
 """
+
+
+print("GRC Engineering Environment Initialized\nFramework: NIST 800-53 Rev 5\nBaseline: FedRAMP High")
