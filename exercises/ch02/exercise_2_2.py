@@ -5,3 +5,10 @@ title case, all caps, and with whitespace stripped.
 
 See grc_python_crash_course.md for full requirements.
 """
+
+framework = "nist 800-53 rev 5"
+print(framework.title())
+print(framework.upper())
+
+framework = ' nist 800-53 rev 5 '
+print(framework.strip())
