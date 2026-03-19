@@ -65,8 +65,8 @@ grc_engineering_python_fundamentals/
 
 | Chapter | Topic | Exercises | Status |
 |---------|-------|-----------|--------|
-| 1 | Getting Started | 3 | Not Started |
-| 2 | Variables and Simple Data Types | 6 | Not Started |
+| 1 | Getting Started | 3 | ✅ Complete |
+| 2 | Variables and Simple Data Types | 6 | ✅ Complete |
 | 3 | Introducing Lists | 5 | Not Started |
 | 4 | Working with Lists | 7 | Not Started |
 | 5 | if Statements | 6 | Not Started |
